@@ -1,0 +1,7 @@
+user:
+  name: X!
+  age: 28
+  hobbies:
+    1: dota
+    2: WOW
+    3: eat
