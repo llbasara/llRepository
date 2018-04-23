@@ -2,6 +2,6 @@ user:
   name: X!
   age: 28
   hobbies:
-    1: doto
-    2: wow
-    3: mmy
+    a: doto
+    b: wow
+    c: mmy
