@@ -1,4 +1,7 @@
 user:
   name: X!
   age: 28
-  hobbies: save the world
+  hobbies:
+    1: doto
+    2: wow
+    3: mmy
